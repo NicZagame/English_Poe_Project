@@ -1,0 +1,57 @@
+header
+{
+	color: #FF7400;
+	border:dotted thick #F06D00;
+	background-color:#000000;
+	padding: 0 20px 0 20px;
+	margin:15px;
+	
+}
+p
+{
+	color : #454382;
+	
+}
+aside
+{
+	color : #FF7400;
+	background-color:#000000;
+	width:700px;
+	float: left;
+	padding: 0 20px 0 20px;
+	margin:15px;
+	
+}
+body
+{
+	background-image: url(Images/orange.gif)
+	
+}
+nav
+{
+	line-height: 200%;
+	background-color: black;
+	width:1000px;
+	padding-right:30px;
+	border:dashed thick #F06D00;
+	margin:15px;
+}
+nav li 
+{
+	
+	color: #7692C5;
+	display: inline;
+	padding: 30px;
+	
+	
+}
+
+
+img
+{
+	float:right;
+	margin-right: 45px;
+	margin-top: 300px;
+	
+	
+}
